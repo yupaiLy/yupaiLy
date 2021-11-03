@@ -125,9 +125,9 @@ Windows                  5 hrs 40 mins       ███████████�
 <!-- 连续提交代码天数 -->
 <p align="center">
   <a>
-    <img width="150" src="https://cdn.jsdelivr.net/ghsun0225SUN/photos/images/202108300310676.png">
+    <img width="150" src="https://z3.ax1x.com/2021/11/03/IA8tCd.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ljjtpcn&theme=dark&hide_border=true"/>
-    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png">
+    <img width="150" src="https://z3.ax1x.com/2021/11/03/IA8y5Q.png">
   </a>
 </p>
 
