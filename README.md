@@ -125,9 +125,9 @@ Windows                  5 hrs 40 mins       ███████████�
 <!-- 连续提交代码天数 -->
 <p align="center">
   <a>
-    <img width="150" src="https://cdn.jsdelivr.net/gh/ljjtpcn/photos/images/202108300310676.png">
+    <img width="150" src="https://cdn.jsdelivr.net/ghsun0225SUN/photos/images/202108300310676.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ljjtpcn&theme=dark&hide_border=true"/>
-    <img width="150" src="https://cdn.jsdelivr.net/gh/ljjtpcn/photos/images/202108300312623.png">
+    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png">
   </a>
 </p>
 
@@ -144,12 +144,6 @@ Windows                  5 hrs 40 mins       ███████████�
 </div>
 
 
-
-# Metrics 🏃
-
-<!-- Metrics -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/ljjtpcn/ljjtpcn/github-metrics.svg" alt="Metrics" width="75%"></div>
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/ljjtpcn/photos/images/202111021926704.png"></div>
 
 
 # Social 🧑‍🤝‍🧑
