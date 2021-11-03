@@ -6,7 +6,7 @@
 </h1>
 
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://hexoljj.oss-cn-shenzhen.aliyuncs.com/img/readme.gif"></div>
+<div align="center" ><img order-radius="100px" src="https://z3.ax1x.com/2021/11/03/IAlUg0.gif"></div>
 <br>
 
 <!-- 个人资料卡片 -->
@@ -15,7 +15,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=ljjtpcn"></div>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/ljjtpcn/ljjtpcn/assets/github-contribution-grid-snake.svg" ></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" ></div>
 
 
 
@@ -63,7 +63,7 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
-<div align="center"><img src="https://hexoljj.oss-cn-shenzhen.aliyuncs.com/img/readme2.png"/></div>
+<div align="center"><img src="https://z3.ax1x.com/2021/11/03/IA1nIJ.png"/></div>
 
 
 
