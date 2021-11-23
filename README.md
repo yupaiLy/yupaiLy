@@ -13,10 +13,6 @@
 <div align="center">
   <a href="https://twopair.cn/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/ljjtpcn/ljjtpcn/assets/github-contribution-grid-snake.svg" ></div>
-
-
 
 
  Last Updated on 03/11/2021
