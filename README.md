@@ -12,14 +12,11 @@
 <!-- 个人资料卡片 -->
 <div align="center">
   <a href="https://wiki.twopair.cn/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-</div>
 
 
  Last Updated on 23/11/2021
 <!--END_SECTION:waka-->
 
-<!-- 提交记录折线图 -->
-[![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ljjtpcn&theme=xcode)](https://github.com/ljjtpcn)
 
 <!-- 连续提交代码天数 -->
 <p align="center">
