@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://wiki.twopair.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=天道酬勤&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=努力奋斗，为了报复此刻的一无所有&center=true&size=27">
   </a>
 </h1>
 
