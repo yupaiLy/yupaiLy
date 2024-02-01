@@ -1,8 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://wiki.twopair.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=while True:
-    print(input('').replace('吗','').replace('？','！'))&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&random=false&width=700&height=60&lines=while+True%3A++;print(input('').replace('%E5%90%97'%2C'').replace('%EF%BC%9F'%2C'%EF%BC%81'))" alt="Typing SVG" />
   </a>
 </h1>
 
