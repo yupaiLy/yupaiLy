@@ -1,7 +1,8 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://wiki.twopair.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=努力奋斗为了报复此刻的一无所有&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=while True:
+    print(input('').replace('吗','').replace('？','！'))&center=true&size=27">
   </a>
 </h1>
 
@@ -22,7 +23,7 @@
 <p align="center">
   <a>
     <img width="150" src="https://z3.ax1x.com/2021/11/03/IA8tCd.png">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yupaiLy&theme=swift)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yupaiLy&theme=swift" alt="GitHub Streak" /></a>
     <img width="150" src="https://z3.ax1x.com/2021/11/03/IA8y5Q.png">
   </a>
 </p>
