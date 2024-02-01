@@ -22,7 +22,7 @@
 <p align="center">
   <a>
     <img width="150" src="https://z3.ax1x.com/2021/11/03/IA8tCd.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ljjtpcn&theme=dark&hide_border=true"/>
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yupaiLy&theme=swift)](https://git.io/streak-stats)
     <img width="150" src="https://z3.ax1x.com/2021/11/03/IA8y5Q.png">
   </a>
 </p>
